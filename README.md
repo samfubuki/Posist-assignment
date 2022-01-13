@@ -1,3 +1,8 @@
+# Application can be run by using npm start and by testing with the user 
+# Username - defaultuser Password - secret
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
